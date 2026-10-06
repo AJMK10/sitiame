@@ -39,13 +39,12 @@ export const SOCIAL_LINKS = {
 } as const satisfies Record<string, string>;
 
 export const CONTACT = {
-  address: "Abidjan, Cocody Angré 8ème tranche, non loin du carrefour Solibra, Immeuble SAKI, 3ème étage, porte C3",
+  address: "Abidjan, Dokui à côté de la pharmacie Saint Odile",
   city: "Abidjan, Côte d'Ivoire",
   phones: [
-    { label: '+225 27 24 52 30 43', href: 'tel:+2252724523043' },
-    { label: '+225 07 09 16 13 81', href: 'tel:+2250709161381' },
+    { label: '+225 07 77 44 39 95', href: 'tel:+2250777443995' },
   ],
   email: 'contact@sitiame-capital.com',
   hours: 'Lundi – Vendredi, 8h00 – 17h00',
-  whatsapp: '2250709161381',
+  whatsapp: '2250777443995',
 } as const;

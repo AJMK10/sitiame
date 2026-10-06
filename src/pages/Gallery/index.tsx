@@ -10,7 +10,7 @@ export default function Gallery() {
     {
       url: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80',
       title: 'Espace de travail moderne',
-      description: 'Nos bureaux à Abidjan - Cocody Angré'
+      description: 'Nos bureaux à Abidjan - Dokui'
     },
     {
       url: 'https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=80',
@@ -25,7 +25,7 @@ export default function Gallery() {
     {
       url: 'https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800&q=80',
       title: 'Vue extérieure',
-      description: 'Immeuble SAKI - Notre siège social'
+      description: 'Dokui - Notre siège social'
     }
   ];
 

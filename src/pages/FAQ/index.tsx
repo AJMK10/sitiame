@@ -105,7 +105,7 @@ const FAQ_DATA: FAQItem[] = [
     category: 'Tarifs & modalités',
     question: 'Proposez-vous des consultations gratuites ?',
     answer:
-      "Oui, nous offrons une première consultation gratuite de 30 minutes pour analyser vos besoins et déterminer comment nous pouvons vous aider. Prenez rendez-vous en nous contactant au +225 07 09 16 13 81 ou via notre formulaire en ligne.",
+      "Oui, nous offrons une première consultation gratuite de 30 minutes pour analyser vos besoins et déterminer comment nous pouvons vous aider. Prenez rendez-vous en nous contactant au +225 07 77 44 39 95 ou via notre formulaire en ligne.",
   },
   {
     category: 'Tarifs & modalités',
@@ -119,19 +119,19 @@ const FAQ_DATA: FAQItem[] = [
     category: 'Contact & support',
     question: 'Comment prendre rendez-vous avec vos experts ?',
     answer:
-      "Vous pouvez prendre rendez-vous par téléphone au +225 27 24 52 30 43 ou +225 07 09 16 13 81, par e-mail à contact@sitiame-capital.com, via notre formulaire de contact en ligne, ou par WhatsApp. Nous vous recontacterons dans les 24h pour confirmer votre rendez-vous.",
+      "Vous pouvez prendre rendez-vous par téléphone au +225 07 77 44 39 95, par e-mail à contact@sitiame-capital.com, via notre formulaire de contact en ligne, ou par WhatsApp. Nous vous recontacterons dans les 24h pour confirmer votre rendez-vous.",
   },
   {
     category: 'Contact & support',
     question: "Quels sont vos horaires d'ouverture ?",
     answer:
-      "Nos bureaux sont ouverts du lundi au vendredi de 8h00 à 17h00. Pour les urgences ou demandes en dehors de ces horaires, vous pouvez nous contacter sur WhatsApp au +225 07 09 16 13 81.",
+      "Nos bureaux sont ouverts du lundi au vendredi de 8h00 à 17h00. Pour les urgences ou demandes en dehors de ces horaires, vous pouvez nous contacter sur WhatsApp au +225 07 77 44 39 95.",
   },
   {
     category: 'Contact & support',
     question: 'Où se trouvent vos bureaux ?',
     answer:
-      "Notre siège social est situé à Abidjan, Cocody Angré 8ème tranche, non loin du carrefour Solibra, Immeuble SAKI, 3ème étage, porte C3. Nous recevons sur rendez-vous.",
+      "Notre siège social est situé à Abidjan, Dokui, à côté de la pharmacie Saint Odile. Nous recevons sur rendez-vous.",
   },
 ];
 

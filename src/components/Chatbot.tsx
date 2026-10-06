@@ -24,13 +24,13 @@ const FAQ_RESPONSES: Record<string, string> = {
   
   'plateformes': 'Nous avons 4 plateformes digitales :\n\n🏢 **NexAsset** - Gestion et tokenisation d\'actifs\n🌉 **Bridge** - Transactions sécurisées\n📊 **PME360** - Scoring et évaluation PME\n💼 **AssetHub** - Gestion de portefeuilles\n\nQuelle plateforme vous intéresse ?',
   
-  'tarifs': 'Nos tarifs sont personnalisés selon votre projet et vos besoins. Pour obtenir un devis détaillé, je vous invite à :\n\n📞 Nous contacter au +225 0709161381\n📧 Nous écrire à contact@sitiame-capital.com\n📝 Remplir le formulaire de contact\n\nNos experts vous répondront rapidement !',
-  
-  'contact': 'Vous pouvez nous contacter de plusieurs façons :\n\n📍 **Adresse** : Abidjan, Cocody angré 8ème tranche, Immeuble SAKI, 3ème étage porte C3\n📞 **Téléphone** : +225 2724523043 / +225 0709161381\n📧 **Email** : contact@sitiame-capital.com\n⏰ **Horaires** : Lundi - Vendredi : 8:00 à 17:00\n\nVoulez-vous prendre rendez-vous ?',
-  
-  'horaires': 'Nos horaires d\'ouverture sont :\n\n📅 **Lundi à Vendredi** : 8h00 - 17h00\n🚫 **Week-end** : Fermé\n\nPour une urgence, contactez-nous sur WhatsApp : +225 0709161381',
-  
-  'rendez-vous': 'Pour prendre rendez-vous avec nos experts :\n\n1. Appelez-nous au +225 0709161381\n2. Envoyez un message WhatsApp\n3. Remplissez le formulaire de contact sur le site\n\nNous vous recontacterons dans les 24h pour confirmer !',
+  'tarifs': 'Nos tarifs sont personnalisés selon votre projet et vos besoins. Pour obtenir un devis détaillé, je vous invite à :\n\n📞 Nous contacter au +225 0777443995\n📧 Nous écrire à contact@sitiame-capital.com\n📝 Remplir le formulaire de contact\n\nNos experts vous répondront rapidement !',
+
+  'contact': 'Vous pouvez nous contacter de plusieurs façons :\n\n📍 **Adresse** : Abidjan, Dokui à côté de la pharmacie Saint Odile\n📞 **Téléphone** : +225 07 77 44 39 95\n📧 **Email** : contact@sitiame-capital.com\n⏰ **Horaires** : Lundi - Vendredi : 8:00 à 17:00\n\nVoulez-vous prendre rendez-vous ?',
+
+  'horaires': 'Nos horaires d\'ouverture sont :\n\n📅 **Lundi à Vendredi** : 8h00 - 17h00\n🚫 **Week-end** : Fermé\n\nPour une urgence, contactez-nous sur WhatsApp : +225 0777443995',
+
+  'rendez-vous': 'Pour prendre rendez-vous avec nos experts :\n\n1. Appelez-nous au +225 0777443995\n2. Envoyez un message WhatsApp\n3. Remplissez le formulaire de contact sur le site\n\nNous vous recontacterons dans les 24h pour confirmer !',
   
   'pme': 'Sitiame Capital accompagne les PME/PMI africaines dans :\n\n✅ Leur développement stratégique\n✅ La mobilisation de capitaux\n✅ L\'accès aux investisseurs institutionnels\n✅ L\'optimisation de leur structure financière\n\nVotre PME a un projet ? Parlons-en !',
   
@@ -38,7 +38,7 @@ const FAQ_RESPONSES: Record<string, string> = {
   
   'merci': 'Avec plaisir ! N\'hésitez pas si vous avez d\'autres questions. Nous sommes là pour vous accompagner dans votre réussite ! 🚀',
   
-  'default': 'Je ne suis pas sûr de comprendre votre question. Pour une réponse personnalisée, je vous invite à :\n\n• Contacter nos experts au +225 0709161381\n• Nous écrire à contact@sitiame-capital.com\n• Consulter notre page FAQ\n\nComment puis-je vous aider autrement ?'
+  'default': 'Je ne suis pas sûr de comprendre votre question. Pour une réponse personnalisée, je vous invite à :\n\n• Contacter nos experts au +225 0777443995\n• Nous écrire à contact@sitiame-capital.com\n• Consulter notre page FAQ\n\nComment puis-je vous aider autrement ?'
 };
 
 const QUICK_REPLIES = [

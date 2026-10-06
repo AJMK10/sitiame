@@ -112,10 +112,10 @@ const organizationJsonLd = {
   description:
     "Société de conseil en financement et investissement accompagnant les PME/PMI africaines : investissements stratégiques, conseils stratégiques et levée de fonds.",
   email: CONTACT.email,
-  telephone: '+2250709161381',
+  telephone: '+2250777443995',
   address: {
     '@type': 'PostalAddress',
-    streetAddress: 'Cocody Angré 8ème tranche, Immeuble SAKI, 3ème étage porte C3',
+    streetAddress: 'Dokui, à côté de la pharmacie Saint Odile',
     addressLocality: 'Abidjan',
     addressCountry: 'CI',
   },
