@@ -43,8 +43,11 @@ export const CONTACT = {
   city: "Abidjan, Côte d'Ivoire",
   phones: [
     { label: '+225 07 77 44 39 95', href: 'tel:+2250777443995' },
+    { label: '+225 07 88 24 50 17', href: 'tel:+2250788245017' },
+    { label: '+225 27 22 53 36 56', href: 'tel:+2252722533656' },
   ],
   email: 'contact@sitiame-capital.com',
   hours: 'Lundi – Vendredi, 8h00 – 17h00',
   whatsapp: '2250777443995',
+  maps: 'https://maps.app.goo.gl/MwAMKvRsnHuJ8WKc7',
 } as const;

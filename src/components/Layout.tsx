@@ -108,9 +108,9 @@ export default function Layout() {
             {CONTACT.hours}
           </p>
           <div className="flex items-center gap-6">
-            <a href={CONTACT.phones[1].href} className="flex items-center gap-2 transition-colors hover:text-white">
+            <a href={CONTACT.phones[0].href} className="flex items-center gap-2 transition-colors hover:text-white">
               <Phone className="h-3.5 w-3.5 text-secondary" aria-hidden="true" />
-              {CONTACT.phones[1].label}
+              {CONTACT.phones[0].label}
             </a>
             <a href={`mailto:${CONTACT.email}`} className="flex items-center gap-2 transition-colors hover:text-white">
               <Mail className="h-3.5 w-3.5 text-secondary" aria-hidden="true" />

@@ -107,7 +107,7 @@ export default function FloatingActions() {
                   icon: Phone,
                   tone: 'bg-secondary text-secondary-foreground',
                   render: (children: React.ReactNode) => (
-                    <a href={CONTACT.phones[1].href} onClick={() => setMenuOpen(false)} className={itemClass}>
+                    <a href={CONTACT.phones[0].href} onClick={() => setMenuOpen(false)} className={itemClass}>
                       {children}
                     </a>
                   ),

@@ -193,8 +193,8 @@ export default function ContactForm({ serviceType = '' }: ContactFormProps) {
           <AlertCircle className="mt-0.5 h-4 w-4 shrink-0" aria-hidden="true" />
           <p>
             L'envoi a échoué. Réessayez, ou contactez-nous directement au{' '}
-            <a href={CONTACT.phones[1].href} className="font-semibold underline">
-              {CONTACT.phones[1].label}
+            <a href={CONTACT.phones[0].href} className="font-semibold underline">
+              {CONTACT.phones[0].label}
             </a>{' '}
             ou à{' '}
             <a href={`mailto:${CONTACT.email}`} className="font-semibold underline">

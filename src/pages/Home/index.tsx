@@ -583,6 +583,14 @@ export default function Home() {
                 <div>
                   <p className="font-semibold text-primary">Siège social</p>
                   <p className="mt-1 text-muted-foreground">{CONTACT.address}</p>
+                  <a
+                    href={CONTACT.maps}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="mt-1 inline-flex items-center gap-1 text-sm text-gold-ink transition-colors hover:underline"
+                  >
+                    Voir sur Google Maps →
+                  </a>
                 </div>
               </li>
               <li className="flex gap-4">
